@@ -3,7 +3,9 @@ Kantan (簡単) - An Anki plugin for Japanese learners.
 
 Kantan adds native japanese definitions and images to your japanese sentence cards. It also optionally adds english definitions as well. 
 
-This plugin makes inputting Japanese sentences into Anki much less tedious. It goes along really well with the Japanese Support plugin. This plugin also assumes your cards are structured similar to how the Japanese Support plugin would want the cards structured. (e.g. Expression, Meaning, Reading, Audio, Image)
+This plugin tries to follow the [JapaneseLevelUp philosophy](http://japaneselevelup.com/how-to-use-anki-to-master-japanese-part-2-sentences-j-e/) by making it so you only define what you don't know in a sentence, and it makes inputting Japanese sentences into Anki much less tedious.
+
+It goes along really well with the Japanese Support plugin. This plugin also assumes your cards are structured similar to how the Japanese Support plugin would want the cards structured. (e.g. Expression, Meaning, Reading, Audio, Image)
 
 If you want the english definitions as well, please add a field to your deck named "EnglishMeaning"
 
